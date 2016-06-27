@@ -1,3 +1,3 @@
 # QDriverStation
 
-The repository has been moved [here](http://github.com/frc-utilites/qdriverstation)
+The repository has been moved [here](https://github.com/frc-utilities/QDriverStation)
