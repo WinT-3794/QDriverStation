@@ -1,0 +1,22 @@
+{
+   "updates":{
+      "windows":{
+         "open-url":"http://github.com/frc-utilities/QDriverStation/releases/latest",
+         "latest-version":"16.06.2",
+         "download-url":"",
+         "changelog":""
+      },
+      "osx":{
+         "open-url":"http://github.com/frc-utilities/QDriverStation/releases/latest",
+         "latest-version":"16.06.2",
+         "download-url":"",
+         "changelog":""
+      },
+      "linux":{
+         "open-url":"http://github.com/frc-utilities/QDriverStation/releases/latest",
+         "latest-version":"16.06.2",
+         "download-url":"",
+         "changelog":""
+      }
+   }
+}
